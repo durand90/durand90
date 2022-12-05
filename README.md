@@ -9,7 +9,7 @@
 👨‍💻 who, Me?
 - 👨‍🚀 Recent Coding Dojo bootcamp graduate with a passion for coding
 - 🌱 I’m currently working on website builds like e-commerce to better understand new technologies
-- 👀 Interested in coding 🖥️, sports, basketball 🏀, board games 🏅 and anything that interests me 😆
+- 👀 Interested in coding 🖥️, sports, basketball 🏀, board games 🏅 , music 🎵 and anything that interests me 😆
 
 Languages and Skills
 <div>
