@@ -11,7 +11,7 @@
 - 🌱 I’m currently working on website builds like e-commerce to better understand new technologies
 - 👀 Interested in coding 🖥️, sports, basketball 🏀, board games 🏅 , music 🎵 and anything that interests me 😆
 
-Languages | Frameworks | Librabries
+## 📚 Languages | Frameworks | Librabries
 <div>
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -30,13 +30,14 @@ Languages | Frameworks | Librabries
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<br>
 
+## 📡 Reach Me
+
+<br>
 <div>
-<li><a href="http://linkedin.com/in/fanfan-durand" class="icon brands fa-linkedin"><span
-									class="label">LinkedIn</span></a></li>
-<li><a href="https://github.com/durand90" class="icon brands fa-github"><span
-									class="label">GitHub</span></a></li>
+<a href="http://linkedin.com/in/fanfan-durand"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:durand90@live.com.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 
