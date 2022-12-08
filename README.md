@@ -42,6 +42,9 @@
 <a href="mailto:durand90@live.com.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
+## 📄 Resume
+
+<a href="https://drive.google.com/file/d/1z3xypRVBokxtp0AZXEP-VMqL449Egf4j/view?usp=share_link"><img  width="40px" src="https://previews.123rf.com/images/ileezhun/ileezhun1507/ileezhun150700096/43116461-resume-icon-blue.jpg"/></a>
 
 <!---
 durand90/durand90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
