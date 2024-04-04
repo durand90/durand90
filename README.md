@@ -46,9 +46,6 @@
    <a href="https://codepen.io/fan2016"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </div>
 
-## 📄 Resume
-
-<a href="https://drive.google.com/file/d/1z3xypRVBokxtp0AZXEP-VMqL449Egf4j/view?usp=share_link"><img  width="40px" src="https://previews.123rf.com/images/ileezhun/ileezhun1507/ileezhun150700096/43116461-resume-icon-blue.jpg"/></a>
 
 <!---
 durand90/durand90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
