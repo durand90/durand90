@@ -41,9 +41,10 @@
 
 <br>
 <div>
+<a> href="https://docs.google.com/document/d/1N7EphefSR55FSIXV40W-9z0Q4xVY7WG3hli9JmFvges/edit?usp=sharing"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"</a>
 <a href="http://linkedin.com/in/fanfan-durand"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:durand90@live.com.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://codepen.io/fan2016"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+<a href="https://codepen.io/fan2016"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </div>
 
 
