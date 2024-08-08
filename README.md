@@ -1,7 +1,7 @@
 # <p align="center">Welcome, I'm Fanfan Durand 😄</p>
 
 ## <p align="center">💻  Full Stack Developer 🔥</p>
-## <p align="center"> Python <img width="20px" height="20px" src="https://user-images.githubusercontent.com/98227731/205742498-0fbfba0c-aeeb-409f-b6a1-dadb64f22599.png" alt="python logo"> | MERN <img width="20px" height="20px" src="https://raw.githubusercontent.com/shahzaibkhalid/mern-app-generator/master/static/logo.png" alt="mern logo"> | Java <img width="20px" height="20px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" alt="java logo">
+## <p align="center"> Python <img width="20px" height="20px" src="https://user-images.githubusercontent.com/98227731/205742498-0fbfba0c-aeeb-409f-b6a1-dadb64f22599.png" alt="python logo"> | MERN <img width="20px" height="20px" src="https://raw.githubusercontent.com/shahzaibkhalid/mern-app-generator/master/static/logo.png" alt="mern logo"> | Java <img width="20px" height="20px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" alt="java logo"> Cyber Security | Network Engineer
 </p>
 
 
