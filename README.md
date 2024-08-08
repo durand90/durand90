@@ -7,9 +7,9 @@
 
 
 ### 👨‍💻 Who, Me?
-- 👨‍🚀 Recent Coding Dojo bootcamp graduate with a passion for coding
+- 👨‍🚀 Currently pursuing bachelor’s degree in network and security, seeking to leverage academic knowledge and practical skills in network configuration, troubleshooting, and security to contribute as an entry-level Network Engineer. Proficient in network design, management, and security protocols, with hands-on experience in configuring network devices and conducting security assessments. Eager to apply theoretical knowledge and certifications in a practical, real-world setting.
 - 🌱 I’m currently working on website builds like e-commerce to better understand new technologies
-- 👀 Interested in coding 🖥️, sports, basketball 🏀, board games 🏅 , music 🎵 and anything that interests me 😆
+- 👀 Interested in coding, IT , Cyber Security, Network🖥️, sports, basketball 🏀, board games 🏅 , music 🎵 and anything that interests me 😆
 
 ## 📚 Languages | Frameworks | Librabries
 <div>
