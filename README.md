@@ -7,12 +7,25 @@
 
 
 ### 👋 Welcome to My GitHub!
-I’m a Bachelor's student in Network and Security (Cybersecurity) at Palm Beach State College with a passion for safeguarding systems and solving complex problems. My technical journey has been enriched by completing a Coding Dojo Bootcamp, where I honed my skills in Python, Java, JavaScript, and SQL. I am currently completing an IT Operations internship with the city of Coconut Creek with the IT department. 
+I’m a Bachelor's student in Network and Security (Cybersecurity) with a passion for safeguarding systems and solving complex problems. My technical journey has been enriched by completing a Coding Dojo Bootcamp, where I honed my skills in Python, Java, JavaScript, and SQL.
 
 💻 Languages & Technologies:
 - Proficient in: Python, Java, JavaScript, SQL
 Experienced with: C#, Windows 10 forensics, IT operations
-- 👀 Interested in coding, IT , Cyber Security, Network🖥️, sports, basketball 🏀, board games 🏅 , music 🎵 and anything that interests me 😆
+
+🎯 Experience & Projects:
+Currently an IT Operations Intern with the City of Coconut Creek, applying technical skills to real-world challenges.
+Developed expertise in secure coding, database management, and system troubleshooting through academic and professional projects.
+
+🚀 Career Goals:
+I’m enthusiastic about building a career in cybersecurity and digital forensics, focusing on protecting systems and data in a rapidly evolving digital world.
+
+👀 Interested in coding, IT , Cyber Security, Network🖥️, sports, basketball 🏀, board games 🏅 , music 🎵 and anything that interests me 😆
+
+Feel free to explore my repositories, connect, or collaborate! Let’s make the tech world safer together.
+
+🌐 [LinkedIn Profile (https://www.linkedin.com/in/fanfan-durand/)]
+📧 [Your Email Address]
 
 ## 📚 Languages | Frameworks | Librabries
 <div>
