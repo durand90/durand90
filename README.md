@@ -6,9 +6,12 @@
 
 
 
-### 👨‍💻 Who, Me?
-- 👨‍🚀 Currently pursuing bachelor’s degree in network and security, seeking to leverage academic knowledge and practical skills in network configuration, troubleshooting, and security to contribute as an entry-level Network Engineer. Proficient in network design, management, and security protocols, with hands-on experience in configuring network devices and conducting security assessments. Eager to apply theoretical knowledge and certifications in a practical, real-world setting.
-- 🌱 I’m currently working on website builds like e-commerce to better understand new technologies
+### 👋 Welcome to My GitHub!
+I’m a Bachelor's student in Network and Security (Cybersecurity) at Palm Beach State College with a passion for safeguarding systems and solving complex problems. My technical journey has been enriched by completing a Coding Dojo Bootcamp, where I honed my skills in Python, Java, JavaScript, and SQL. I am currently completing an IT Operations internship with the city of Coconut Creek with the IT department. 
+
+💻 Languages & Technologies:
+- Proficient in: Python, Java, JavaScript, SQL
+Experienced with: C#, Windows 10 forensics, IT operations
 - 👀 Interested in coding, IT , Cyber Security, Network🖥️, sports, basketball 🏀, board games 🏅 , music 🎵 and anything that interests me 😆
 
 ## 📚 Languages | Frameworks | Librabries
@@ -47,6 +50,27 @@
 <a href="https://codepen.io/fan2016"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </div>
 
+<!--
+
+👋 Welcome to My GitHub!
+I’m a Bachelor's student in Network and Security (Cybersecurity) with a passion for safeguarding systems and solving complex problems. My technical journey has been enriched by completing a Coding Dojo Bootcamp, where I honed my skills in Python, Java, JavaScript, and SQL.
+
+💻 Languages & Technologies:
+
+Proficient in: Python, Java, JavaScript, SQL
+Experienced with: C#, Windows 10 forensics, IT operations
+🎯 Experience & Projects:
+
+Currently an IT Operations Intern with the City of Coconut Creek, applying technical skills to real-world challenges.
+Developed expertise in secure coding, database management, and system troubleshooting through academic and professional projects.
+🚀 Career Goals:
+I’m enthusiastic about building a career in cybersecurity and digital forensics, focusing on protecting systems and data in a rapidly evolving digital world.
+
+Feel free to explore my repositories, connect, or collaborate! Let’s make the tech world safer together.
+
+🌐 [LinkedIn Profile (Optional Link)]
+📧 [Your Email Address]
+-->
 
 <!---
 durand90/durand90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
